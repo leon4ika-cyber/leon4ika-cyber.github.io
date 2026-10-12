@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "PH2743FQSK.com.artiomdolotov.vibe"
+        ],
+        "components": [
+          {
+            "/": "/vk_id_redirect",
+            "comment": "VK ID authorization callback for Vibe"
+          },
+          {
+            "/": "/vk_id_redirect/*",
+            "comment": "VK ID authorization callback parameters for Vibe"
+          }
+        ]
+      }
+    ]
+  }
+}
